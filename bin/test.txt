@@ -1,0 +1,6 @@
+This is the first the of the sentence.
+This is the second sentence of the file.
+
+
+This line will test the words with apostrophes like don't ain't etc.
+ And this line has a space in front and has words like don't shouldn't etc.
